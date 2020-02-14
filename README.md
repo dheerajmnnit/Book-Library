@@ -15,4 +15,6 @@ A classic online book library has all the features of a physical library. Online
 1. Clone this repo
 2. Run `npm install` to install all the dependencies
 3. Run `npm start` for development mode
-4. New browser window should open automatically.# Book-Library
+4. New browser window should open automatically.This will open in localhost:300.
+5. Clone https://github.com/dheerajmnnit/Book-Library-Api repo also and Run `npm install` to install all the dependencies Run `npm start` for development mode.
+6. To access api's it will point to localhost:9000.
